@@ -1,1 +1,6 @@
-Prueba
+Voy a proceder a cambiar este archivo.
+
+import pandas as pd
+import numpy as np
+
+df = pd.DataFrame()  
